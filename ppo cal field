@@ -1,0 +1,9 @@
+17. Profit per Order
+
+Create Calculated Field:
+
+SUM([Profit]) / COUNTD([Order ID])
+🔹 18. Sales per Customer
+
+
+SUM([Sales]) / COUNTD([Customer Name])
