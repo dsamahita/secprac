@@ -1,0 +1,11 @@
+12. Area Chart (Sales by Month/Year)
+
+New Sheet
+Drag:
+Order Date → Columns
+Change to Month/Year
+Drag Sales → Rows
+Click Marks → Area
+Rename Y-axis:
+Right-click axis → Edit Axis
+👉 “Total sales (in millions)”
