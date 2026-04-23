@@ -1,0 +1,9 @@
+LOD Calculation (Is Order Profitable?)
+Create Calculated Field:
+Name:
+👉 Is Order Profitable
+
+Formula:
+
+{ FIXED [Order ID] : SUM([Profit]) } >= 0
+Click OK
