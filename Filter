@@ -1,0 +1,16 @@
+8. Filter by Region (Dropdown Multiple)
+
+Drag Region → Filters
+Click OK
+Right-click Region → Show Filter
+Change filter style:
+Click dropdown on filter →
+👉 Select Multiple Values Dropdown
+
+
+🔹 9. Add Sliding Filter for Profit Ratio
+
+Drag Profit Ratio → Filters
+Choose range
+Right-click → Show Filter
+Set it to Range Slider
