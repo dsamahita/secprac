@@ -1,0 +1,8 @@
+4. Create Calculated Field (Profit Ratio)
+Go to Analysis → Create Calculated Field
+Name: Profit Ratio
+Formula:
+
+SUM([Profit]) / SUM([Sales])
+
+Click OK
