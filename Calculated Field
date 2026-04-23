@@ -6,3 +6,9 @@ Formula:
 SUM([Profit]) / SUM([Sales])
 
 Click OK
+
+6. Format Profit Ratio (Percentage)
+Right-click Profit Ratio → Default Properties → Number Format
+Choose:
+Percentage
+1 decimal place
