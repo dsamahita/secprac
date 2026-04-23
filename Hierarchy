@@ -1,0 +1,21 @@
+🔹 1. Create Hierarchy (Product → Category → Sub-Category)
+In Data pane (left side):
+Find:
+Category
+Sub-Category
+Product Name
+Right-click Category → Create Hierarchy
+Name it: Product Hierarchy
+Drag:
+Sub-Category into Category
+Product Name under Sub-Category
+
+✅ Done hierarchy
+
+🔹 2. Location Hierarchy (Country → State → City → Postal Code)
+Right-click Country → Create Hierarchy
+Name: Location Hierarchy
+Drag in order:
+State
+City
+Postal Code
